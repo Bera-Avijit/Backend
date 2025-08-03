@@ -1,5 +1,5 @@
 # Stage 1: Build the application using Maven
-FROM maven:3.9.6-eclipse-temurin-17
+FROM meclipse-temurin:17-jdk-alpine
 
 WORKDIR /app
 

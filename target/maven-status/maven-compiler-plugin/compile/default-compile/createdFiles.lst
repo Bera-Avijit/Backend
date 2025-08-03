@@ -1,0 +1,7 @@
+com\avijit\AI_ChatBot\Entity\ChatMessage.class
+com\avijit\AI_ChatBot\Entity\ChatMessage$ChatMessageBuilder.class
+com\avijit\AI_ChatBot\Config\CorsConfig.class
+com\avijit\AI_ChatBot\Repository\ChatRepository.class
+com\avijit\AI_ChatBot\Controller\AIController.class
+com\avijit\AI_ChatBot\Service\AIService.class
+com\avijit\AI_ChatBot\AiChatBotApplication.class
